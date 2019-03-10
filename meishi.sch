@@ -1012,4 +1012,8 @@ Wire Wire Line
 Connection ~ 1625 6425
 Wire Wire Line
 	1900 6425 1975 6425
+Text GLabel 2250 1450 2    50   Input ~ 0
+SW22
+Wire Wire Line
+	2250 1450 2200 1450
 $EndSCHEMATC
