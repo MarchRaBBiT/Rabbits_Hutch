@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 14)
+    (drawings 16)
     (tracks 444)
     (zones 0)
     (modules 32)
@@ -1653,6 +1653,12 @@
     )
   )
 
+  (gr_text "by MarchRaBBiT\n" (at 145.41282 80.53926) (layer F.SilkS)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  )
+  (gr_text "Rabbits' Hutch V1.0" (at 123.84822 80.5291) (layer F.SilkS)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  )
   (gr_text "Rabbits' hutch" (at 191.3368 80.93272) (layer B.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3) italic) (justify mirror))
   )
